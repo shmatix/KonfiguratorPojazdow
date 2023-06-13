@@ -1,0 +1,56 @@
+﻿@using KonfiguratorPojazdow.Data;
+@model KonfiguratorPojazdow.Data.Configuration
+
+@{
+    ViewData["Title"] = "Edycja";
+}
+
+<h1>Edycja</h1>
+
+<h4>Konfiguracja</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <input type="hidden" asp-for="UserId" />
+            <div class="form-group">
+                <label asp-for="CarId" class="control-label"></label>
+                <select asp-for="CarId" class="form-control" asp-items="ViewBag.CarId"></select>
+                <span asp-validation-for="CarId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EngineId" class="control-label"></label>
+                <select asp-for="EngineId" class="form-control" asp-items="ViewBag.EngineId"></select>
+                <span asp-validation-for="EngineId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PaintId" class="control-label"></label>
+                <select asp-for="PaintId" class="form-control" asp-items="ViewBag.PaintId"></select>
+                <span asp-validation-for="PaintId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Interior" class="control-label"></label>
+                <select asp-for="Interior" asp-items="Html.GetEnumSelectList<InteriorType>()" class="form-control"></select>
+                <span asp-validation-for="Interior" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Rims" class="control-label"></label>
+                <select asp-for="Rims" asp-items="Html.GetEnumSelectList<RimsType>()" class="form-control"></select>
+                <span asp-validation-for="Rims" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Zapisz" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index" class="btn btn-primary">Powrót do konfiguracji</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

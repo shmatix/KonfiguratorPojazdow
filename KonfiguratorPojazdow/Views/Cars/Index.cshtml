@@ -1,0 +1,53 @@
+﻿@model IEnumerable<KonfiguratorPojazdow.Data.Car>
+
+@{
+    ViewData["Title"] = "Pojazdy";
+}
+
+<h1>Pozjazdy</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Utwórz</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Model)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Doors)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Type)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Model)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Doors)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Type)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-primary">Edycja</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-primary">Szczegóły</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-primary">Usuń</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

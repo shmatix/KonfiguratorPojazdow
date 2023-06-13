@@ -1,0 +1,133 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = KonfiguratorPojazdow
+build_property.RootNamespace = KonfiguratorPojazdow
+build_property.ProjectDir = C:\Users\admin\source\repos\KonfiguratorPojazdow\KonfiguratorPojazdow\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\admin\source\repos\KonfiguratorPojazdow\KonfiguratorPojazdow
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/admin/source/repos/KonfiguratorPojazdow/KonfiguratorPojazdow/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/source/repos/KonfiguratorPojazdow/KonfiguratorPojazdow/Views/Cars/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/source/repos/KonfiguratorPojazdow/KonfiguratorPojazdow/Views/Cars/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/source/repos/KonfiguratorPojazdow/KonfiguratorPojazdow/Views/Cars/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/source/repos/KonfiguratorPojazdow/KonfiguratorPojazdow/Views/Cars/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/source/repos/KonfiguratorPojazdow/KonfiguratorPojazdow/Views/Cars/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/source/repos/KonfiguratorPojazdow/KonfiguratorPojazdow/Views/Engines/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5naW5lc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/source/repos/KonfiguratorPojazdow/KonfiguratorPojazdow/Views/Engines/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5naW5lc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/source/repos/KonfiguratorPojazdow/KonfiguratorPojazdow/Views/Engines/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5naW5lc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/source/repos/KonfiguratorPojazdow/KonfiguratorPojazdow/Views/Engines/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5naW5lc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/source/repos/KonfiguratorPojazdow/KonfiguratorPojazdow/Views/Engines/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5naW5lc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/source/repos/KonfiguratorPojazdow/KonfiguratorPojazdow/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/source/repos/KonfiguratorPojazdow/KonfiguratorPojazdow/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/source/repos/KonfiguratorPojazdow/KonfiguratorPojazdow/Views/Paints/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFpbnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/source/repos/KonfiguratorPojazdow/KonfiguratorPojazdow/Views/Paints/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFpbnRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/source/repos/KonfiguratorPojazdow/KonfiguratorPojazdow/Views/Paints/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFpbnRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/source/repos/KonfiguratorPojazdow/KonfiguratorPojazdow/Views/Paints/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFpbnRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/source/repos/KonfiguratorPojazdow/KonfiguratorPojazdow/Views/Paints/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFpbnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/source/repos/KonfiguratorPojazdow/KonfiguratorPojazdow/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/source/repos/KonfiguratorPojazdow/KonfiguratorPojazdow/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/source/repos/KonfiguratorPojazdow/KonfiguratorPojazdow/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/source/repos/KonfiguratorPojazdow/KonfiguratorPojazdow/Views/UsersConfigurations/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNDb25maWd1cmF0aW9uc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/source/repos/KonfiguratorPojazdow/KonfiguratorPojazdow/Views/UsersConfigurations/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNDb25maWd1cmF0aW9uc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/source/repos/KonfiguratorPojazdow/KonfiguratorPojazdow/Views/UsersConfigurations/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNDb25maWd1cmF0aW9uc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/source/repos/KonfiguratorPojazdow/KonfiguratorPojazdow/Views/UsersConfigurations/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNDb25maWd1cmF0aW9uc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/source/repos/KonfiguratorPojazdow/KonfiguratorPojazdow/Views/UsersConfigurations/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNDb25maWd1cmF0aW9uc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/source/repos/KonfiguratorPojazdow/KonfiguratorPojazdow/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/source/repos/KonfiguratorPojazdow/KonfiguratorPojazdow/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/source/repos/KonfiguratorPojazdow/KonfiguratorPojazdow/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-qvx0ruuh4s
